@@ -1,4 +1,8 @@
 tabla1
 tabla2
 tabla3
+<<<<<<< HEAD
 Tabla5 added locally
+=======
+tabla4 - remote add
+>>>>>>> bdbbee211e9c6a22afd8d1a64dc0750b6cef97e6
